@@ -1,0 +1,11 @@
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Colision\Colision\obj\Debug\Colision.csproj.AssemblyReference.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Colision\Colision\obj\Debug\Colision.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Colision\Colision\obj\Debug\Colision.Form1.resources
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Colision\Colision\obj\Debug\Colision.Properties.Resources.resources
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Colision\Colision\obj\Debug\Colision.csproj.GenerateResource.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Colision\Colision\obj\Debug\Colision.csproj.CoreCompileInputs.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Colision\Colision\bin\Debug\Colision.exe.config
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Colision\Colision\bin\Debug\Colision.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Colision\Colision\bin\Debug\Colision.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Colision\Colision\obj\Debug\Colision.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Colision\Colision\obj\Debug\Colision.pdb
